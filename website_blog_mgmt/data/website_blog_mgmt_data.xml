@@ -3,7 +3,7 @@
     <data noupdate="1">
         <record forcecreate="True" id="ir_cron_publish_blog"
             model="ir.cron">
-            <field name="name">Publish blog post</field>
+            <field name="name">Publish blog articles</field>
             <field name="interval_number">1</field>
             <field name="interval_type">minutes</field>
             <field name="numbercall">-1</field>
